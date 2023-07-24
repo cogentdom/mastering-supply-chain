@@ -7,6 +7,10 @@
 *.DS_Store
 
 __pycache__/
+
+# Jupyter Book
+book-mscf
+
 # Environments
 .env
 .venv
