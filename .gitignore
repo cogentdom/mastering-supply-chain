@@ -11,6 +11,9 @@ __pycache__/
 # Jupyter Book
 book-mscf
 
+.idea/
+
+
 # Environments
 .env
 .venv
