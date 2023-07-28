@@ -1,12 +1,22 @@
 # How to set up Environment
 
+---
+
+- Create an account on Kaggle and sign up for the [Predict Future Sales]() competition  
+- Make a top level directory and name it `csv_folder`  
+- Save the competition data inside `csv_folder` using either method
+   - download the data manually 
+   - pull directly with the [Kaggle Api](https://www.kaggle.com/docs/api)
+     - `kaggle competitions download -c competitive-data-science-predict-future-sales`
+
+---
 
 Note: If your environment does not contain venv run  
-`pip install venv`
+`pip3 install venv`
 
 
-`python3 -m venv newenv`   
-`source newenv/bin/activate`  
+`python3 -m venv venv`   
+`source venv/bin/activate`  
 `pip install -r requirements.txt`
 
 
