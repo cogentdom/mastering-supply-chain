@@ -1,5 +1,12 @@
 kaggle
 jupyter
+jupyter-book
 pandas
 seaborn
-
+sklearn
+keras
+tensorflow
+matplotlib
+statsmodels
+pytorch_lightning
+pytorch_forecasting

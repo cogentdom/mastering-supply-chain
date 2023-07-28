@@ -2,6 +2,7 @@
 
 *.csv
 *.json
+*.zip
 
 *.ipynb_checkpoints
 *.DS_Store
@@ -12,7 +13,7 @@ __pycache__/
 book-mscf
 
 .idea/
-
+*.idea
 
 # Environments
 .env
