@@ -74,6 +74,7 @@
 - ARIMA - SARIMAX
 - VAR model - co-integration
 - Random Forest
+- RNN
 - LSTM
 - Bidirectional LSTM
 - CNN-LSTM
