@@ -70,7 +70,6 @@
   - Better to be approximately correct than completely wrong
 
 
-
 # Models
 - ARIMA - SARIMAX
 - VAR model - co-integration
