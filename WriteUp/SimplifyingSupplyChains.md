@@ -36,7 +36,6 @@
 - DL uses surrogate functions: cross entropy over MSE
 - 
 
-
 ### Addressing complexity in data
 - Stationarity
 - Standardize
@@ -72,7 +71,7 @@
 
 # Models
 - ARIMA - SARIMAX
-- VAR model - co-integration
+- VAR model - co-integration (VARIMA)
 - Random Forest
 - RNN
 - LSTM
@@ -97,10 +96,7 @@
 - Jupyter Notebook
 - Jupyter Book
 - Github
-- 
-
-
-
+-
 
 # Notes
 - Transfer Learning
