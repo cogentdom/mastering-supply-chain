@@ -81,6 +81,26 @@
 - ConvLSTM
 - TCN & TFT
 
+# Libraries
+- numpy
+- pandas
+- matplotlib
+- seaborn
+- statsmodels
+- sci-kit learn
+- tensorflow
+- pytorch
+
+# Infrastructure
+- Sagemaker
+  - AWS (EC2, VPC, Jupyter server)
+- Jupyter Notebook
+- Jupyter Book
+- Github
+- 
+
+
+
 
 # Notes
 - Transfer Learning
@@ -112,3 +132,6 @@
 - The Great Supply Chain Disruption
 - 
 
+# Learnings
+- Sparse -> Trivial for DL
+- 
