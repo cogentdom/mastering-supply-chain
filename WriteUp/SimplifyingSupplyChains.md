@@ -130,4 +130,5 @@
 
 # Learnings
 - Sparse -> Trivial for DL
+- Cloud Infrastructure
 - 
