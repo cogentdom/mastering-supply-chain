@@ -54,6 +54,7 @@
 - Multiple Time Series
 - External Time Series
 - Heterogeneity
+- Heteroskedasticity  
 - Hierarchical / Panel / Tabular
 - Aggregation / Disaggregation of Nodes
 - Predictions at various aggregation levels
